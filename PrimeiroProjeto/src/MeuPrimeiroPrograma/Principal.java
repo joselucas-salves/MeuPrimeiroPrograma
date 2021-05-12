@@ -19,7 +19,7 @@ public class Principal { //Classe que mantém o método Principal
 		Scanner in =  new Scanner(System.in);
 		String nome = in.nextLine();
 		
-		//Exibir uma string usando printf
+		//Exibir uma string printf
 		System.out.printf("Olá %s!\n", nome);
 		
 		
