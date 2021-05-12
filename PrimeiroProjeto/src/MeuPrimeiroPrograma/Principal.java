@@ -15,7 +15,7 @@ public class Principal { //Classe que mantém o método Principal
 	public static void main(String[] args) { //Esse é o método Principal
 		System.out.println("Olá amigo!\nQual é o seu nome?"); //Uso do Println
 		
-		//lendo uma string usando a biblioteca scanner
+		//entrada de dados usando a biblioteca scanner
 		Scanner in =  new Scanner(System.in);
 		String nome = in.nextLine();
 		
