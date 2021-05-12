@@ -22,6 +22,12 @@ public class Principal { //Classe que mantém o método Principal
 		//Exibir uma string printf
 		System.out.printf("Olá %s!\n", nome);
 		
+		//NOTA: Implementar leitura de idade e exibi-la
+		
+		
+		
+		
+		
 		
 		
 		
